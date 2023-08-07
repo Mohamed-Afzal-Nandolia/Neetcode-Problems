@@ -1,6 +1,8 @@
+package containsDuplicate;
+
 import java.util.HashSet;
 //to check distinct elements, you can use HashSet, which can tell if any integer is repeated
-class Solution {
+class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
 
