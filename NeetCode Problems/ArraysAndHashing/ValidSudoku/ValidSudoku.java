@@ -1,4 +1,4 @@
-package ValidSudoku;
+package ArraysAndHashing.ValidSudoku;
 
 public class ValidSudoku {
     public static boolean isValidSudoku(char[][] board) {

@@ -1,4 +1,4 @@
-package productOfArrayExceptSelf;
+package ArraysAndHashing.productOfArrayExceptSelf;
 
 public class ProductOfArrayExceptSelf {
     public static int[] productExceptSelf(int[] nums){

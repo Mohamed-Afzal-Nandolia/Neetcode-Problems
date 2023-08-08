@@ -1,4 +1,4 @@
-package encodeAndDecodeString;
+package ArraysAndHashing.encodeAndDecodeString;
 
 public class EncodeAndDecodeString {
     public static String encode (List<String> strs) {

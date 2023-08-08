@@ -1,4 +1,4 @@
-package longestConsecutiveSequence;
+package ArraysAndHashing.longestConsecutiveSequence;
 
 public class LongestConsecutiveSequence {
     public static int longestConsecutive(int[] nums) {

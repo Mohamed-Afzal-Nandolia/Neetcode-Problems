@@ -1,4 +1,4 @@
-package topKFrequentElements;
+package ArraysAndHashing.topKFrequentElements;
 import java.util.*;
 
 public class TopKFrequentElements {
